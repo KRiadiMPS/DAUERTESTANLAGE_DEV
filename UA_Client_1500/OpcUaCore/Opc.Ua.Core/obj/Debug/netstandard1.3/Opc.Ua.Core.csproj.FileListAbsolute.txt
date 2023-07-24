@@ -1,0 +1,62 @@
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.deps.json
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csprojAssemblyReference.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfo.cs
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.deps.json
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csprojAssemblyReference.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfo.cs
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.deps.json
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfo.cs
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.deps.json
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfo.cs
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csprojAssemblyReference.cache
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.deps.json
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csprojAssemblyReference.cache
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfo.cs
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.deps.json
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csprojAssemblyReference.cache
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfo.cs
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.deps.json
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.pdb
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csprojAssemblyReference.cache
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfo.cs
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.pdb

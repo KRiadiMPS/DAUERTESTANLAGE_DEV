@@ -1,0 +1,16 @@
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Release\netstandard2.0\Opc.Ua.Core.deps.json
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Release\netstandard2.0\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Release\netstandard2.0\Opc.Ua.Core.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.AssemblyInfo.cs
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.pdb
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Release\netstandard2.0\Opc.Ua.Core.deps.json
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Release\netstandard2.0\Opc.Ua.Core.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Release\netstandard2.0\Opc.Ua.Core.pdb
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.AssemblyInfo.cs
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.pdb

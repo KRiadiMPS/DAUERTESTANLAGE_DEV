@@ -1,0 +1,435 @@
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.exe.config
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.exe.manifest
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.application
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.exe
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Buffers.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csprojAssemblyReference.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.exe.config
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientCertForm.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientForm.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.Properties.Resources.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.GenerateResource.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.exe.manifest
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.application
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CopyComplete
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.exe
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_Dummy_OPCUA\109737901_OPC_UA_Client_S7-1500_CODE_V13\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.exe.config
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.exe.manifest
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.application
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.exe
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Buffers.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csprojAssemblyReference.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.exe.config
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientCertForm.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientForm.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.Properties.Resources.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.GenerateResource.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.exe.manifest
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.application
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CopyComplete
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.exe
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.exe.config
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.exe.manifest
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.application
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.exe
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\UA Client 1500.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Buffers.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csprojAssemblyReference.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.exe.config
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientCertForm.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientForm.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.Properties.Resources.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.GenerateResource.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.exe.manifest
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.application
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CopyComplete
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.exe
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA Client 1500.pdb
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\obj\Debug\UA_Client_1500.FormMain.resources
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\PdfSharp.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\PdfSharp.xml
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.xml
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Khalid Riadi\Desktop\Aktuelles\DTA\DTA_OPC UA\OPC_UA_Client_1500\UA_Client_1500\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.exe.config
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.exe.manifest
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.application
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.exe
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.pdb
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Client.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Core.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.Charting.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\BouncyCastle.Crypto.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Newtonsoft.Json.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Text.Encodings.Web.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Options.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Numerics.Vectors.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Buffers.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Reflection.Metadata.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Collections.Immutable.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Client.pdb
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Core.pdb
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.xml
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.Charting.xml
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.xml
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\de\PdfSharp.resources.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csprojAssemblyReference.cache
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.exe.config
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.FormMain.resources
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientCertForm.resources
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientForm.resources
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.Properties.Resources.resources
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.GenerateResource.cache
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CoreCompileInputs.cache
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.exe.manifest
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.application
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CopyComplete
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.exe
+C:\01 DT-Software\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.pdb
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.exe.config
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.exe.manifest
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.application
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.exe
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.pdb
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Client.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Core.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.Charting.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\BouncyCastle.Crypto.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Newtonsoft.Json.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Numerics.Vectors.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Buffers.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Reflection.Metadata.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Collections.Immutable.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Client.pdb
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Core.pdb
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.xml
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.Charting.xml
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.xml
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\de\PdfSharp.resources.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csprojAssemblyReference.cache
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.exe.config
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.FormMain.resources
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientCertForm.resources
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientForm.resources
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.Properties.Resources.resources
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.GenerateResource.cache
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CoreCompileInputs.cache
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.exe.manifest
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.application
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CopyComplete
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.exe
+C:\Projekt\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.pdb
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.exe.config
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.exe.manifest
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.application
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.exe
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\UA Client 1500.pdb
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Client.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Core.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.Charting.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\BouncyCastle.Crypto.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Newtonsoft.Json.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Text.Encodings.Web.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Options.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Numerics.Vectors.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Buffers.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Reflection.Metadata.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\System.Collections.Immutable.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Client.pdb
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\Opc.Ua.Core.pdb
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.xml
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\PdfSharp.Charting.xml
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.xml
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\de\PdfSharp.resources.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csprojAssemblyReference.cache
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.exe.config
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.FormMain.resources
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientCertForm.resources
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientForm.resources
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.Properties.Resources.resources
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.GenerateResource.cache
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CoreCompileInputs.cache
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.exe.manifest
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.application
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CopyComplete
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.exe
+C:\00_Projekte\OPC_UA_Client_1500 - Kopie\UA_Client_1500\obj\Debug\UA Client 1500.pdb
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\UA Client 1500.exe.config
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\UA Client 1500.exe.manifest
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\UA Client 1500.application
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\UA Client 1500.exe
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\UA Client 1500.pdb
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Opc.Ua.Client.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Opc.Ua.Core.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\PdfSharp.Charting.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\PdfSharp.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\BouncyCastle.Crypto.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Newtonsoft.Json.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\System.Text.Encodings.Web.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.Options.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\System.Numerics.Vectors.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\System.Buffers.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\System.Reflection.Metadata.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\System.Collections.Immutable.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Opc.Ua.Client.pdb
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\Opc.Ua.Core.pdb
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\PdfSharp.xml
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\PdfSharp.Charting.xml
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\SimaticNET.OPC.OpcClient.xml
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\de\PdfSharp.resources.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA_Client_1500.csprojAssemblyReference.cache
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA Client 1500.exe.config
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA_Client_1500.FormMain.resources
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientCertForm.resources
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA_Client_1500.UAClientForm.resources
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA_Client_1500.Properties.Resources.resources
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.GenerateResource.cache
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CoreCompileInputs.cache
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA Client 1500.exe.manifest
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA Client 1500.application
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA_Client_1500.csproj.CopyComplete
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA Client 1500.exe
+C:\00_Projekte\DAUERTESTANLAGE OPCUA CSPROJEKT\UA_Client_1500\obj\Debug\UA Client 1500.pdb
